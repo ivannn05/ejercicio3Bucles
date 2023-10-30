@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\bin\Debug\net6.0\ejercicio3Bucles.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\bin\Debug\net6.0\ejercicio3Bucles.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\bin\Debug\net6.0\ejercicio3Bucles.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\bin\Debug\net6.0\ejercicio3Bucles.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\bin\Debug\net6.0\ejercicio3Bucles.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\ejercicio3Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\ejercicio3Bucles.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\ejercicio3Bucles.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\ejercicio3Bucles.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\ejercicio3Bucles.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\refint\ejercicio3Bucles.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\ejercicio3Bucles.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\ejercicio3Bucles.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercicio3Bucles\obj\Debug\net6.0\ref\ejercicio3Bucles.dll
